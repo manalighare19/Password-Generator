@@ -1,1 +1,3 @@
-Password Generator
+# Password Generator
+
+![](password-generator.png)
